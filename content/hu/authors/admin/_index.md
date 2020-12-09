@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Antal Dániel tapasztalt vezetői tanácsadó vagyok.  A közgazdaságtan, pénzügytan és adattudomány magas szintű művelőjeként különféle értékelési módszereket, vállalati pénzügyi modelleket, gazdasági hatáselemzéseket, előrejelző és prediktív modelleket alkotok tanácsadói javaslataim megalapozására. A CFA Intézet szakmai előírásait és etikai kódexét követem. R programnyelven több statisztikai és elemző szoftverem forráskódját nyilvánossá tettem.
