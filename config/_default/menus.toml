@@ -14,6 +14,11 @@
   weight = 20
 
 [[main]]
+  name = "Topics"
+  url = "#tags"
+  weight = 25
+
+[[main]]
   name = "Projects"
   url = "#projects"
   weight = 30
@@ -24,13 +29,24 @@
   weight = 40
 
 [[main]]
+name = "Use Cases"
+url = "/usecase/"
+weight = 50
+
+[[main]]
+name = "Photography"
+url = "#photography"
+weight = 70
+
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
 #    name = "CV"
-#    url = "media/cv.pdf"
+#    url = "files/cv.pdf"
 #    weight = 70
+
