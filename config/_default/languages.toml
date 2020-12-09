@@ -11,6 +11,59 @@
   languageCode = "hu"
   contentDir = "content/hu"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   title = "Antal Dániel honlapja"
+[hu.params]
+  description = "Antal Dániel személyes honlapja"
+
+[[hu.menu.main]]
+name = "Rólam"
+url = "#about"
+weight = 1
+
+[[hu.menu.main]]
+name = "Publikációk"
+url = "#publications"
+weight = 2
+
+[[hu.menu.main]]
+name = "Blog"
+url = "#posts"
+weight = 3
+
+[[hu.menu.main]]
+name = "Témák"
+url = "#tags"
+weight = 4
+
+[[hu.menu.main]]
+name = "Projektek"
+url = "#projects"
+weight = 5
+
+[[hu.menu.main]]
+name = "Projektek"
+url = "#projects"
+weight = 6
+
+[[hu.menu.main]]
+name = "Esetek"
+url = "/esetek/"
+weight = 7
+
+[[hu.menu.main]]
+name = "Előadások"
+url = "/talk/"
+weight = 8
+
+[[hu.menu.main]]
+name = "Fényképezés"
+url = "#photography"
+weight = 9
+
+[[hu.menu.main]]
+name = "Kapcsolat"
+url = "#contact"
+weight = 10
+
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
